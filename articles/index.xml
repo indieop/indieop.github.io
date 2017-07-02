@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Indie Opinion</title>
-    <link>/articles/</link>
+    <link>https://indieop.github.io/articles/</link>
     <description>Recent content in Articles on Indie Opinion</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jul 2017 02:10:41 +0300</lastBuildDate>
     
-	<atom:link href="/articles/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://indieop.github.io/articles/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Article</title>
-      <link>/articles/first-article/</link>
+      <link>https://indieop.github.io/articles/first-article/</link>
       <pubDate>Mon, 03 Jul 2017 02:10:41 +0300</pubDate>
       
-      <guid>/articles/first-article/</guid>
+      <guid>https://indieop.github.io/articles/first-article/</guid>
       <description>Hello! Welcome to my new blog!</description>
     </item>
     
